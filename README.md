@@ -17,9 +17,9 @@ Command-line application that lets users manage a e-commerce back end using node
 
 ### Usage Video
 
-[video of how to use note-taker part 1](https://drive.google.com/file/d/1Y58fkKiB5gL3My4jniMY6nGbIUdnyg_L/view?usp=sharing)
-[video of how to use note-taker part 2](https://drive.google.com/file/d/1PBIhEJxbm9vYQGWHnM8OcvPz81zKUGws/view?usp=sharing)
-[video of how to use note-taker part 3](https://drive.google.com/file/d/1-q34Z0VmLQ7pv6ZpOcx04dk3cCtrWXyi/view?usp=sharing)
+- [video of how to use note-taker part 1](https://drive.google.com/file/d/1Y58fkKiB5gL3My4jniMY6nGbIUdnyg_L/view?usp=sharing)
+- [video of how to use note-taker part 2](https://drive.google.com/file/d/1PBIhEJxbm9vYQGWHnM8OcvPz81zKUGws/view?usp=sharing)
+- [video of how to use note-taker part 3](https://drive.google.com/file/d/1-q34Z0VmLQ7pv6ZpOcx04dk3cCtrWXyi/view?usp=sharing)
 
 ### License
 
